@@ -11,7 +11,7 @@ In this challenge, I was assinged a given code to modify and write to make the w
 - [Website Link](#website-link)
 
 
-## Site Imagine
+## Site Image
 ![](assets/images/01-html-css-git-homework-demo.png)
 
 ## Refactored Codes
